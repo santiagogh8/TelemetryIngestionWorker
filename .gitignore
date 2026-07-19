@@ -1,0 +1,6 @@
+bin/
+obj/
+*.user
+.vs/
+/.github
+*.DS_Store
