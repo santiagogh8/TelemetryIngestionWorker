@@ -4,7 +4,9 @@
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "RABBITMQ_USER": "guest",
+        "RABBITMQ_PASS": "guest"
       },
       "applicationUrl": "https://localhost:56805;http://localhost:56806"
     }

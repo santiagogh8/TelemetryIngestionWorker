@@ -1,0 +1,13 @@
+root = true
+
+[*.cs]
+indent_size = 4
+indent_style = space
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+csharp_prefer_braces = true:suggestion
+csharp_prefer_simple_using_statement = true:suggestion
+dotnet_style_qualification_of_field_members = false:suggestion
